@@ -1,0 +1,43 @@
+EL PATIO MÁLAGA — GUÍA DE PRODUCTOS
+
+ÚNICO ARCHIVO PARA CAMBIAR LA CARTA:
+    datos/menu.js
+
+ESTRUCTURA:
+
+index.html
+├── datos/
+│   └── menu.js       ← EDITAR AQUÍ
+├── js/
+│   └── menu.js       ← MOTOR, NO TOCAR
+├── css/
+│   └── estilos.css
+└── img/
+    └── ...            ← FOTOS
+
+PARA AGREGAR UN PRODUCTO:
+
+Busca la categoría, por ejemplo "Para Compartir", y copia un producto:
+
+{
+  "nombre": "Producto Nuevo",
+  "descripcion": "Descripción del producto.",
+  "precio": 25000,
+  "imagen": "img/compartir/producto-nuevo.webp"
+},
+
+Cambia los cuatro datos y guarda.
+
+NO tienes que modificar HTML, CSS ni el motor.
+
+El contador de cada categoría y la búsqueda se actualizan solos.
+
+La versión ya incluye:
+- Parrillada para Dos
+- Parrillada ps
+- Parrillada para Cuatro
+
+"Para Compartir" queda con 3 PRODUCTOS.
+
+IMPORTANTE:
+La fotografía debe existir en la ruta escrita en "imagen".
