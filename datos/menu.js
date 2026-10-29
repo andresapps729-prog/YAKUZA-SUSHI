@@ -1,6 +1,5 @@
-x
-ik
-9
+
+
 window.MENU_DATA = {
   "restaurante": {
     "nombre": "YAKUZA ",
@@ -54,7 +53,7 @@ window.MENU_DATA = {
       },
          {
         "nombre": "URAGIRIMONO/el traidor",
-        "descripcion": "Camarón salteado + aguacate + queso crema + mayonesa japonesa // Una combinación intensa y llena de carácter. El camarón salteado aporta el sabor principal, mientras el aguacate y el queso crema equilibran el toque crujiente y ahumado de la tocineta.",
+        "descripcion": "Camarón salteado + aguacate + queso crema + mayonesa japonesa.  // Una combinación intensa y llena de carácter. El camarón salteado aporta el sabor principal, mientras el aguacate y el queso crema equilibran el toque crujiente y ahumado de la tocineta.",
         "precio": 34000,
         "imagen": "img/rolls/traidor.webp"
       },   {
