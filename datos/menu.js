@@ -40,7 +40,7 @@ window.MENU_DATA = {
       {
         "nombre": "MISIÓN EN PAREJA",
         "descripcion": "2 rolls + 2 limonadas Elige 2 rolls de la carta y acompáñalos con dos limonadas naturales o de hierbabuena.",
-        "precio": 17000,
+        "precio": 71000,
         "imagen": "img/combos/dosss.webp"
       }
     ],
