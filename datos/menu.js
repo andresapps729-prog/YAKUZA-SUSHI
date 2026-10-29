@@ -18,6 +18,32 @@ window.MENU_DATA = {
   },
   "categorias": {
    
+    "NUEVO!!! Combos": [
+      {
+        "nombre": "LOS 5 DEL CLAN",
+        "descripcion": "5 rolls de 10 piezas cada uno · 50 piezas Elige 5 sabores diferentes de los 6 rolls de la carta. Ideal para compartir entre 3 y 5 personas.",
+        "precio": 160000,
+        "imagen": "img/combos/cinco.webp"
+      },
+       {
+        "nombre": "BANQUETE DEL CLAN",
+        "descripcion": "3 rolls + palmitos apanados Una combinación para compartir entre amigos o familia. Elige 3 rolls diferentes y disfruta una entrada crujiente para acompañar.",
+        "precio": 115000,
+        "imagen": "img/combos/unos.webp"
+      },
+      {
+        "nombre": "EL IMPERIO YAKUZA",
+        "descripcion": "2 rolls + 1 entrada de palmitos + 1 bebida Un combo completo para una ocasión especial o para compartir.",
+        "precio": 95000,
+        "imagen": "img/combos/ress.webp"
+      },
+      {
+        "nombre": "MISIÓN EN PAREJA",
+        "descripcion": "2 rolls + 2 limonadas Elige 2 rolls de la carta y acompáñalos con dos limonadas naturales o de hierbabuena.",
+        "precio": 17000,
+        "imagen": "img/combos/dosss.webp"
+      }
+    ],
     "Entradas": [
       {
         "nombre": "Dedos de Salmón Apanados",
@@ -46,35 +72,35 @@ window.MENU_DATA = {
     ],
     "ROLLS — LOS 6 DEL CLAN": [
       {
-        "nombre": "KAIKEIYAKU/El Contador",
+        "nombre": "KAIKEIYAKU/ El Contador",
         "descripcion": "Atún + aguacate + queso crema + mayonesa japonesa + palmitos de cangrejo.  // Preciso y equilibrado. Una combinación cremosa y fresca donde el atún toma el protagonismo, acompañado por la suavidad del aguacate y el queso crema.",
         "precio": 36000,
         "imagen": "img/rolls/atun.webp"
       },
          {
-        "nombre": "URAGIRIMONO/El Traidor",
+        "nombre": "URAGIRIMONO/ El Traidor",
         "descripcion": "Camarón salteado + aguacate + queso crema + mayonesa japonesa.  // Una combinación intensa y llena de carácter. El camarón salteado aporta el sabor principal, mientras el aguacate y el queso crema equilibran el toque crujiente y ahumado de la tocineta.",
         "precio": 34000,
         "imagen": "img/rolls/traidor.webp"
       },   {
-        "nombre": "SHIKAKU/El Asesino",
+        "nombre": "SHIKAKU/ El Asesino",
         "descripcion": "Salmón + aguacate + queso crema + maduro + mayonesa japonesa + teriyaki.  // Dulce, cremoso y contundente. El salmón se encuentra con el maduro dorado en una combinación de contrastes que golpea con sabor desde el primer bocado.",
         "precio": 34000,
         "imagen": "img/rolls/asesino.webp"
       },   {
-        "nombre": "SENNYŪSHA/El Infiltrado",
+        "nombre": "SENNYŪSHA/ El Infiltrado",
         "descripcion": "Camarón + mango + aguacate + queso crema + mayonesa japonesa + teriyaki.  // Dulce, fresco y cremoso. El mango se mezcla con el camarón y el aguacate para crear una combinación inesperada que entra suave y sorprende al final.",
         "precio": 31000,
         "imagen": "img/rolls/infiltrado.webp"
       },
          {
-        "nombre": "OYABUN/El Padrino",
+        "nombre": "OYABUN/ El Padrino",
         "descripcion": "Salmón + aguacate + queso crema + mayonesa japonesa + teriyaki.  // Elegante y sofisticado. El salmón es el protagonista de una combinación cremosa y delicada, pensada para representar la autoridad del jefe del clan.",
         "precio": 36000,
         "imagen": "img/rolls/padrino.webp"
       },
       {
-        "nombre": "NIJŪSŌ/Doble Agente",
+        "nombre": "NIJŪSŌ/ Doble Agente",
         "descripcion": "Salmón + camarón salteado + aguacate + queso crema + mayonesa japonesa + teriyaki. // Dos protagonistas, una sola misión. El salmón y el camarón salteado se unen con la cremosidad del aguacate y el queso crema.",
         "precio": 38000,
         "imagen": "img/rolls/agente.webp"
@@ -157,6 +183,7 @@ window.MENU_DATA = {
       }
      
     ],
+  
     "Limonadas": [
       {
         "nombre": "Natural",
@@ -170,8 +197,6 @@ window.MENU_DATA = {
         "precio": 9000,
         "imagen": "img/bebidas/hierbabuena.webp"
       }
-    
     ]
-  
   }
 };
