@@ -1,5 +1,4 @@
 
-
 window.MENU_DATA = {
   "restaurante": {
     "nombre": "YAKUZA ",
@@ -18,7 +17,7 @@ window.MENU_DATA = {
   },
   "categorias": {
    
-    "NUEVO!!! Combos": [
+    " COMBOS": [
       {
         "nombre": "LOS 5 DEL CLAN",
         "descripcion": "5 rolls de 10 piezas cada uno · 50 piezas Elige 5 sabores diferentes de los 6 rolls de la carta. Ideal para compartir entre 3 y 5 personas.",
@@ -40,7 +39,7 @@ window.MENU_DATA = {
       {
         "nombre": "MISIÓN EN PAREJA",
         "descripcion": "2 rolls + 2 limonadas Elige 2 rolls de la carta y acompáñalos con dos limonadas naturales o de hierbabuena.",
-        "precio": 81000,
+        "precio": 17000,
         "imagen": "img/combos/dosss.webp"
       }
     ],
@@ -54,54 +53,66 @@ window.MENU_DATA = {
        {
         "nombre": "Camarón Apanado",
         "descripcion": "Camarones jugosos con apanado crujiente, acompañados de salsa de la casa.",
-        "precio": 23000,
+        "precio": 25000,
         "imagen": "img/entradas/camp.webp"
       },
       {
         "nombre": "Camarón Teriyaki",
         "descripcion": "Camarones salteados y bañados en salsa teriyaki, con ese toque dulce y ligeramente intenso.",
-        "precio": 18000,
+        "precio": 24000,
         "imagen": "img/entradas/camt.webp"
       },
       {
         "nombre": "Palmitos Apanados",
         "descripcion": "Palmitos tiernos, apanados y fritos hasta quedar dorados y crujientes",
-        "precio": 17000,
+        "precio": 18000,
         "imagen": "img/entradas/palma.webp"
       }
     ],
-    "ROLLS — LOS 6 DEL CLAN": [
+    "ROLLS — DEL CLAN": [
       {
         "nombre": "KAIKEIYAKU/ El Contador",
-        "descripcion": "Atún + aguacate + queso crema + mayonesa japonesa + palmitos de cangrejo.  // Preciso y equilibrado. Una combinación cremosa y fresca donde el atún toma el protagonismo, acompañado por la suavidad del aguacate y el queso crema.",
+        "descripcion": "Atún, aguacate, queso crema, palmitos de cangrejo, arroz y alga nori.         / Preciso y equilibrado. El atún toma el protagonismo en una combinación fresca y cremosa, acompañado por la suavidad del aguacate, el queso crema y el delicado sabor de los palmitos de cangrejo.",
         "precio": 36000,
         "imagen": "img/rolls/atun.webp"
       },
          {
         "nombre": "URAGIRIMONO/ El Traidor",
-        "descripcion": "Camarón salteado + aguacate + queso crema + mayonesa japonesa.  // Una combinación intensa y llena de carácter. El camarón salteado aporta el sabor principal, mientras el aguacate y el queso crema equilibran el toque crujiente y ahumado de la tocineta.",
+        "descripcion": "Camarón salteado, aguacate, queso crema, mayonesa japonesa, arroz y alga nori.         / Intenso y lleno de carácter. El camarón salteado aporta el sabor principal, mientras el aguacate y el queso crema equilibran cada bocado con una textura suave y cremosa.",
         "precio": 34000,
         "imagen": "img/rolls/traidor.webp"
       },   {
         "nombre": "SHIKAKU/ El Asesino",
-        "descripcion": "Salmón + aguacate + queso crema + maduro + mayonesa japonesa + teriyaki.  // Dulce, cremoso y contundente. El salmón se encuentra con el maduro dorado en una combinación de contrastes que golpea con sabor desde el primer bocado.",
+        "descripcion": "Salmón, aguacate, queso crema, maduro, mayonesa japonesa, teriyaki, arroz y alga nori.        / Dulce, cremoso y contundente. El salmón se encuentra con el maduro dorado en una combinación de contrastes que conquista desde el primer bocado.",
         "precio": 34000,
         "imagen": "img/rolls/asesino.webp"
       },   {
         "nombre": "SENNYŪSHA/ El Infiltrado",
-        "descripcion": "Camarón + mango + aguacate + queso crema + mayonesa japonesa + teriyaki.  // Dulce, fresco y cremoso. El mango se mezcla con el camarón y el aguacate para crear una combinación inesperada que entra suave y sorprende al final.",
+        "descripcion": "Camarón, mango, aguacate, queso crema, mayonesa japonesa, teriyaki, arroz y alga nori.         / Dulce, fresco y cremoso. El mango aporta un toque tropical que se mezcla con el camarón y el aguacate, creando una combinación inesperada que sorprende al final.",
         "precio": 31000,
         "imagen": "img/rolls/infiltrado.webp"
       },
          {
         "nombre": "OYABUN/ El Padrino",
-        "descripcion": "Salmón + aguacate + queso crema + mayonesa japonesa + teriyaki.  // Elegante y sofisticado. El salmón es el protagonista de una combinación cremosa y delicada, pensada para representar la autoridad del jefe del clan.",
+        "descripcion": "Salmón, aguacate, queso crema, mayonesa japonesa, teriyaki, arroz y alga nori.         / Elegante y sofisticado. El salmón es el protagonista de una combinación delicada y cremosa, pensada para representar la autoridad y el carácter del jefe del clan.",
         "precio": 36000,
         "imagen": "img/rolls/padrino.webp"
       },
       {
+        "nombre": "SHIROI KAPO/ Capo Blanco",
+        "descripcion": "Queso crema, aguacate, palmito de cangrejo apanado, arroz y alga nori. Cebolla opcional.         / Suave por dentro, crujiente por fuera. El palmito de cangrejo apanado aporta textura y sabor, acompañado por el aguacate y el queso crema. La cebolla es opcional para quienes desean un toque adicional de carácter.",
+        "precio": 38000,
+        "imagen": "img/rolls/capo.webp"
+      },
+      {
+        "nombre": "KŌGŌ/ La Emperatriz",
+        "descripcion": "Salmón, palmito de cangrejo apanado, aguacate, queso crema, arroz y alga nori.         / Elegante, delicada y llena de carácter. El salmón aporta un sabor protagonista que se combina con el crujiente del palmito de cangrejo apanado, mientras el aguacate y el queso crema crean un equilibrio suave y cremoso. Una combinación digna de la Emperatriz del clan.",
+        "precio": 38000,
+        "imagen": "img/rolls/enpera.webp"
+      },
+      {
         "nombre": "NIJŪSŌ/ Doble Agente",
-        "descripcion": "Salmón + camarón salteado + aguacate + queso crema + mayonesa japonesa + teriyaki. // Dos protagonistas, una sola misión. El salmón y el camarón salteado se unen con la cremosidad del aguacate y el queso crema.",
+        "descripcion": "Salmón, camarón salteado, aguacate, queso crema, mayonesa japonesa, teriyaki, arroz y alga nori.         / Dos protagonistas, una sola misión. El salmón y el camarón salteado se unen con la cremosidad del aguacate y el queso crema en una combinación intensa, equilibrada y llena de sabor.",
         "precio": 38000,
         "imagen": "img/rolls/agente.webp"
       }
