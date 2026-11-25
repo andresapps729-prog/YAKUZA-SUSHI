@@ -101,13 +101,13 @@ window.MENU_DATA = {
       {
         "nombre": "SHIROI KAPO/ Capo Blanco",
         "descripcion": "Queso crema, aguacate, palmito de cangrejo apanado, arroz y alga nori. Cebolla opcional.         / Suave por dentro, crujiente por fuera. El palmito de cangrejo apanado aporta textura y sabor, acompañado por el aguacate y el queso crema. La cebolla es opcional para quienes desean un toque adicional de carácter.",
-        "precio": 38000,
+        "precio": 35000,
         "imagen": "img/rolls/capo.webp"
       },
       {
         "nombre": "KŌGŌ/ La Emperatriz",
         "descripcion": "Salmón, palmito de cangrejo apanado, aguacate, queso crema, arroz y alga nori.         / Elegante, delicada y llena de carácter. El salmón aporta un sabor protagonista que se combina con el crujiente del palmito de cangrejo apanado, mientras el aguacate y el queso crema crean un equilibrio suave y cremoso. Una combinación digna de la Emperatriz del clan.",
-        "precio": 38000,
+        "precio": 35000,
         "imagen": "img/rolls/enpera.webp"
       },
       {
